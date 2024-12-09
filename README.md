@@ -1,21 +1,14 @@
 # Prework Study Guide Webpage
 
-## This is my Prework Study Guide page that i will use in the class
+## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? to learn how to code!
+- Why did you build this project? so i can finish my prework study guide website
+- What problem does it solve? it solves my issue of having notes everywhere and it keeps things organized.
+- What did you learn? i learned that coding is harder than i thought but also not impossible. 
 
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
